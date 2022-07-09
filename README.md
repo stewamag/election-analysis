@@ -4,6 +4,10 @@
 
 An anlysis of a local Colorado Congressional campaign. Results for the following were found using using Python.
   - Total number of votes
+  - The names of the counties performing the vote
+  - Total number of votes from each county
+  - Percentage of total votes per county
+  - Name of county with the highest voter turnout
   - Name of candidates in the running
   - Total number of votes each candidate received
   - Percentage of the total vote that each candidate received
@@ -17,7 +21,21 @@ An anlysis of a local Colorado Congressional campaign. Results for the following
 ## Summary:
 
 The summary of the analysis is as follows:
-  - Total number of votes: 
+  - Total number of votes: 369,711
+  - The names of the counties performing the vote:
+    * Jefferson: 10.5% (38,855)
+    * Denver: 82.8% (306,055)
+    * Arapahoe: 6.7% (24,801)
+  - Total number of votes from each county
+    * Jefferson county placed 38,855 votes
+    * Denver county placed 306,055 votes
+    * Arapahoe county placed 24,801 votes
+  - Percentage of total votes per county
+    * Jefferson county placed 10.5% of the total votes
+    * Denver county placed 82.8% of the total votes
+    * Arapahoe county placed 6.7% of the total votes
+  - Name of county with the highest voter turnout
+    * Denver
   - Name of candidates in the running:
     * Charles Casper Stockham
     * Diana DeGette
