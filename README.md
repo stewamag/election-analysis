@@ -53,9 +53,24 @@ The summary of the analysis is as follows:
 ## Overview:
 
 Using the code written here, it would be easy to create an analysis of similarly formatted data of future congressional campaigns. It will streamline this process for the state.
+  - The code would need to be modified in order to be used in future campaigns.
+     * The data file used would have to be updated (line 8, the .csv file)
+     <img width="540" alt="Screen Shot 2022-07-09 at 4 26 30 PM" src="https://user-images.githubusercontent.com/106691255/178125719-914f9d17-8455-4d36-ad48-3794a30a055b.png">
+
+     * The row numbers would need to be altered if the data file is not formatted in exactly the same manner as the original (line 49 and 52)
+      <img width="564" alt="Screen Shot 2022-07-09 at 4 27 11 PM" src="https://user-images.githubusercontent.com/106691255/178125733-78a09e90-e7c1-4ab9-a88f-7be16b3167d9.png">
 
 ### Challenges and Difficulties Encountered:
 
   - The indentation and syntax were my most common errors.
   - There were times where my code was out of order and not running properly, but I was able to re-arrange it so that it would no longer be an issue.
+
+### Limitations of the Data Set:
+
+  - The data is limited to votes for candidate by county.
+  - It is missing population data.
+    * Who were the people who were voting (age, race, gender, etc).
+    * What was the population of each county?
+      * How many registered voters live in each county? 
+      * How many of those registered voters did not place a vote?
 
